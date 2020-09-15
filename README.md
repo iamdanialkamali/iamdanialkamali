@@ -18,7 +18,6 @@
 - 👯 I’m looking to collaborate to **interesting projects**
 - 💬 Ask me about **everything**
 - 📫 You can reach me here 👉 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="20">](iamdanialkamali@gmail.com/)
-- 😄 Pronouns: **he/him**
 - ⚡ Fun fact: The **first computer *“bug” 🐛*** was identified in 1947 as a dead moth 🦋.
 
 ![DanialKamali's github stats](https://github-readme-stats.vercel.app/api?username=iamdanialkamali&show_icons=true)
