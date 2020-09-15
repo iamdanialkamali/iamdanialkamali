@@ -11,24 +11,24 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=iamdanialkamali.iamdanialkamali)
 
 ### Hi! 🙋‍
-### I'm 22 years old self-taught backend developer from Iran!
+### I'm 22 years old self-taught AI Researcher from Iran!
 
 - 🔭 I’m currently working on **Zibal**
-- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/electron/electron.png" height="20"> **Electron**, <img src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" height="20"> **.NET** and <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" height="20"> **Unity**
+- 🌱 I’m currently learning <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" height="20"> **TF 2**
 - 👯 I’m looking to collaborate to **interesting projects**
 - 💬 Ask me about **everything**
-- 📫 You can reach me here 👉 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="20">](https://twitter.com/GrzybDev/)
+- 📫 You can reach me here 👉 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="20">](iamdanialkamali@gmail.com/)
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: The **first computer *“bug” 🐛*** was identified in 1947 as a dead moth 🦋.
 
 ![DanialKamali's github stats](https://github-readme-stats.vercel.app/api?username=iamdanialkamali&show_icons=true)
 
 ## I'm into:
+- Natural Language Processing
 - Backend programming
-- Game development
-- High performance servers
-- Competetive programming
-- Coffee & Tea ☕
+- Deep Learning
+- Multi-modal systems
+- Capsul Nets
 
 ## Languages & Tools
 <p align="center">
