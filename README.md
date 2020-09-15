@@ -19,10 +19,9 @@
 - 💬 Ask me about **everything**
 - 📫 You can reach me here 👉 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" height="20">](iamdanialkamali@gmail.com/)
 - ⚡ Fun fact: The **first computer *“bug” 🐛*** was identified in 1947 as a dead moth 🦋.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![DanialKamali's github stats](https://github-readme-stats.vercel.app/api?username=iamdanialkamali&show_icons=true)
-
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ## I'm into:
 - Natural Language Processing
 - Backend programming
