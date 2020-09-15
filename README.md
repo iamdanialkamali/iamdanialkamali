@@ -1,4 +1,4 @@
-# Hi there! I'm [Danial](https://grzybdev.github.io)! 👋
+# Hi there! I'm [Danial](https://iamdanialkamali.github.io)! 👋
 
 <a href="https://twitter.com/iamdanialkamali">
   <img align="left" alt="Marek Grzyb | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -21,7 +21,7 @@
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: The **first computer *“bug” 🐛*** was identified in 1947 as a dead moth 🦋.
 
-![GrzybDev's github stats](https://github-readme-stats.vercel.app/api?username=GrzybDev&show_icons=true)
+![DanialKamali's github stats](https://github-readme-stats.vercel.app/api?username=iamdanialkamali&show_icons=true)
 
 ## I'm into:
 - Backend programming
